@@ -1,16 +1,16 @@
-### Hi there 👋
+### 🎶 Who's Dave? 🎶
 
-<!--
-**DavidWittman/DavidWittman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Dave. I'm an engineer and I enjoy breaking, deploying, and maintaining software more than I enjoy writing it. You can find a smattering of my work here on Github, but most of my contributions lately have been to private repositories outside of Github.
 
-Here are some ideas to get you started:
+I'm currently focused on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - Finding bugs and breaking things
+  - Writing better tests
+  - Making the lives of developers easier
+
+When I'm not at a computer I'm:
+
+  - 🐖 BBQing
+  - 🥋 Making my way to purple belt
+  - 🇪🇸 Learning Spanish
+  - 🚴‍♂️ Preparing for a century ride
