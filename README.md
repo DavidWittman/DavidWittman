@@ -6,11 +6,10 @@ I'm currently focused on:
 
   - Finding bugs and breaking things
   - Writing better tests
-  - Making the lives of developers easier
+  - Explaining why AI won't replace people (yet)
 
 When I'm not at a computer I'm:
 
-  - 🐖 BBQing
-  - 🥋 Making my way to purple belt
-  - 🇪🇸 Learning Spanish
-  - 🚴‍♂️ Preparing for a century ride
+  - 👨‍🍼 Parenting
+  - 🐖 BBQing or 🍕 making pizza
+  - 🇪🇸 Practicing Spanish
